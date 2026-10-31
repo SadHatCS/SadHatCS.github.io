@@ -2,7 +2,7 @@
 
 Security+ certified IT professional (CSIS) with cybersecurity training through BCR Cyber's ICE-T program. I have a background in technical troubleshooting, risk and fraud analysis, and data protection. I'm seeking an entry-level role in security operations, IT support, or network and systems administration.
 
-Waldorf, Maryland | [Jaadir2.peyton@gmail.com](mailto:Jaadir2.peyton@gmail.com) | [Download my resume (PDF)](Jaadir_Peyton_Resume.pdf)
+Waldorf, Maryland | [Jaadir2.peyton@gmail.com](mailto:Jaadir2.peyton@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaadirpeyton){:target="_blank" rel="noopener"} | [Download my resume (PDF)](Jaadir_Peyton_Resume.pdf)
 
 ## Certifications
 
