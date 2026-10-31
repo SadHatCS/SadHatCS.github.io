@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+}
+h2 {
+  margin-top: 2.4rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #2f3a33;
+}
+h3 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.1rem;
+}
+ul { padding-left: 1.3rem; }
+li { margin-bottom: 0.5rem; }
+a { text-underline-offset: 3px; }
+img { max-width: 100%; height: auto; }
