@@ -6,8 +6,9 @@ Waldorf, Maryland | [Jaadir2.peyton@gmail.com](mailto:Jaadir2.peyton@gmail.com) 
 
 ## Certifications
 
-Select a certification to open its verification page on CompTIA.
+Select a certification to open its verification page.
 
+- **[BCR Cyber SOC Operations Analyst I (SOCOA I)](https://www.credential.net/265fdca5-2a5c-4178-8c45-0c45cce4eff9#acc.Ah4jULRa){:target="_blank" rel="noopener"}**, Oct. 2026
 - **CompTIA CSIS** (Secure Infrastructure Specialist), Oct. 2026
 - **[CompTIA Security+ (SY0-701)](https://cp.certmetrics.com/comptia/en/public/verify/credential/437c09aea0ce4662879b02f4b3d9f19d){:target="_blank" rel="noopener"}**, Oct. 2026 to Oct. 2029
 - **[CompTIA Network+](https://cp.certmetrics.com/comptia/en/public/verify/credential/193097ca17ac491eb2a5de4d2a29c9fe){:target="_blank" rel="noopener"}**, Aug. 2026 to Oct. 2029
